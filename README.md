@@ -38,13 +38,13 @@ Assista à apresentação oficial do projeto no YouTube:
 
 ## 📚 Sobre os Autores
 
-👩‍💻 Francieli Muniz | Engenheira de Dados  
-👨‍💻 André Luiz Oliveira Maldonado | Head de Data Analytics  
-👨‍💻 Caio Teixeira de Lima Saraiva | Desenvolvedor de Realidade Estendida  
-👨‍💻 Gabriel Aparecido Magalhães de Brito | Analista de Qualidade  
-👨‍💻 João Vitor Soares de Paula | Analista de Suporte Computacional  
-👩‍💻 Lais Falcochio de Camargo | Assistente Geral  
-
+👩‍💻 [Francieli Muniz](www.linkedin.com/in/francielimuniz) | Engenheira de Dados  
+👨‍💻 [André Luiz Oliveira Maldonado](https://www.linkedin.com/in/andremaldonado1/) | Head de Data Analytics  
+👨‍💻 [Caio Teixeira de Lima Saraiva](https://www.linkedin.com/in/caio-t-saraiva/) | Desenvolvedor de Realidade Estendida  
+👨‍💻 [Gabriel Aparecido Magalhães de Brito](https://www.linkedin.com/in/gabriel-aparecido-917926329/) | Analista de Qualidade  
+👨‍💻 [João Vitor Soares de Paula](https://www.linkedin.com/in/jo%C3%A3o-vitor-soares-de-paula-3b9812201/) | Analista de Suporte Computacional  
+👩‍💻 [Lais Falcochio de Camargo](https://www.linkedin.com/in/lais-falcochio-de-camargo-166795216/) | Assistente Geral  
+ 
 ---
 
 ## 📄 Licença
