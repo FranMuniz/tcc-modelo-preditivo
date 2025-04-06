@@ -38,7 +38,7 @@ Assista à apresentação oficial do projeto no YouTube:
 
 ## 📚 Sobre os Autores
 
-👩‍💻 [Francieli Muniz](www.linkedin.com/in/francielimuniz) | Engenheira de Dados  
+👩‍💻 [Francieli Muniz](https://www.linkedin.com/in/francielimuniz/) | Engenheira de Dados  
 👨‍💻 [André Luiz Oliveira Maldonado](https://www.linkedin.com/in/andremaldonado1/) | Head de Data Analytics  
 👨‍💻 [Caio Teixeira de Lima Saraiva](https://www.linkedin.com/in/caio-t-saraiva/) | Desenvolvedor de Realidade Estendida  
 👨‍💻 [Gabriel Aparecido Magalhães de Brito](https://www.linkedin.com/in/gabriel-aparecido-917926329/) | Analista de Qualidade  
