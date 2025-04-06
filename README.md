@@ -47,6 +47,26 @@ Assista à apresentação oficial do projeto no YouTube:
  
 ---
 
+### 🧑‍🏫 Orientação, Banca Avaliadora e Nota Final
+
+**Orientador:**  
+🎓 [Prof. Me. Edy Carlos Hidemi Hayashida](https://www.linkedin.com/in/edy-hayashida/)  
+Universidade Paulista – UNIP
+
+**Banca Avaliadora:**  
+🧑‍🏫 [Prof. Me. Edy Carlos Hidemi Hayashida](https://www.linkedin.com/in/edy-hayashida/)  
+Universidade Paulista – UNIP  
+
+🧑‍🏫 [Prof. Me. Elias C de Oliveira](https://www.linkedin.com/in/elias-carneiro-de-oliveira-9b240911/)  
+Universidade Paulista – UNIP  
+
+🧑‍🏫 [Prof. Me. Henry Costa Ungaro](https://www.linkedin.com/in/henry-costa-ungaro-3a4890104/)  
+Universidade Paulista – UNIP
+
+**Nota Final:**  
+🏆 **10,0** – Projeto avaliado com excelência pela banca examinadora.
+
+
 ## 📄 Licença
 
 Este projeto foi desenvolvido apenas para fins educacionais.
