@@ -1,6 +1,6 @@
 # 📊 TCC - SIMULAÇÃO DE E-COMMERCE COM PREVISÃO DE VENDAS: UM ESTUDO DE REGRESSÃO LINEAR E VISUALIZAÇÃO DE DADOS
 
-Este repositório contém o projeto do meu Trabalho de Conclusão de Curso (TCC) na graduação, cujo objetivo foi desenvolver um **modelo preditivo de vendas** no varejo utilizando técnicas de **Regressão Linear**.
+Este repositório contém o projeto do Trabalho de Conclusão de Curso (TCC) na graduação de Ciência da Computação, cujo objetivo foi desenvolver um **modelo preditivo de vendas** no varejo utilizando técnicas de **Regressão Linear**.
 
 A ideia foi demonstrar como modelos matemáticos e inteligência artificial podem ser aplicados para gerar **previsões baseadas em dados**, auxiliando a tomada de decisão estratégica em empresas.
 
@@ -38,12 +38,12 @@ Assista à apresentação oficial do projeto no YouTube:
 
 ## 📚 Sobre os Autores
 
-👩‍💻 Francieli Muniz  | Engenheira de Dados
-👨‍💻 André Luiz Oliveira Maldonado  | Head de Data Analytics
-👨‍💻 Caio Teixeira de Lima Saraiva  | Desenvolver de Realidade Extendida
-👨‍💻 Gabriel Aparecido Magalhães de Brito  | Analista de Qualidade
-👨‍💻 João Vitor Soares de Paula  |  Analista de Suporte Computacional
-👩‍💻 Lais Falcochio de Camargo | Assistente Geral
+👩‍💻 Francieli Muniz | Engenheira de Dados  
+👨‍💻 André Luiz Oliveira Maldonado | Head de Data Analytics  
+👨‍💻 Caio Teixeira de Lima Saraiva | Desenvolvedor de Realidade Estendida  
+👨‍💻 Gabriel Aparecido Magalhães de Brito | Analista de Qualidade  
+👨‍💻 João Vitor Soares de Paula | Analista de Suporte Computacional  
+👩‍💻 Lais Falcochio de Camargo | Assistente Geral  
 
 ---
 
